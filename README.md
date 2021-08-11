@@ -1,6 +1,5 @@
 # real-world-nuxt
 
-> My tremendous Nuxt.js project
 
 ## Build Setup
 
